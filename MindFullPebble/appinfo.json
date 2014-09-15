@@ -1,0 +1,17 @@
+{
+  "uuid": "1f4b57b4-87bf-4cb1-885f-301739d48d9b",
+  "shortName": "MindFullPebble",
+  "longName": "MindFullPebble",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
